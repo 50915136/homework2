@@ -1,8 +1,8 @@
 #include <iostream>
-#include <cmath> // ¥]§t cmath ¥H¨Ï¥Î pow ¨ç¼Æ
+#include <cmath> // åŒ…å« cmath ä»¥ä½¿ç”¨ pow å‡½æ•¸
 using namespace std;
 
-class Polynomial; // «e¦V«Å§i¡A§i¶D½sÄ¶¾¹ Polynomial ¬O¤@­ÓÃş§O
+class Polynomial; // å‰å‘å®£å‘Šï¼Œå‘Šè¨´ç·¨è­¯å™¨ Polynomial æ˜¯ä¸€å€‹é¡åˆ¥
 
 class Term {
     friend class Polynomial;
