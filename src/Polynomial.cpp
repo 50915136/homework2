@@ -18,7 +18,7 @@ private://的私有成員
 class Polynomial //定義類別 Polynomial
 {
 	
-public://工友成員
+public://公有成員
  
     Polynomial();//建構函數，用於初始化資料
     Polynomial(const Polynomial& poly);//複製現有Polynomial物件創建新物件
